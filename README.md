@@ -1,4 +1,4 @@
-## Hi there, I'm Stela Mile! 👋
+## Hi there, I'm Stela! 👋
 
 ### 📊 Data Science | 🌍 Economics & Public Policy | 🏛️ International Relations
 

@@ -22,7 +22,7 @@ Here are some of the key projects I've been working on:
 * An in-depth analysis of insurance market data to identify strategic protection gaps. 
 * Includes SQL scripts for prioritizing leads (`priority_leads.sql`) and Python modules for strategic data generation and analysis, likely inspired by my compliance and public affairs experience in the insurance sector.
 
-### 📈 [Statistical Learning for Ads](https://github.com/stelaamile/stat-learning-ads)
+### 📈 [Statistical Learning for Ads](https://github.com/An-d1/stat-learning-ads)
 **Tech:** `R`, `RMarkdown`
 * A comprehensive statistical learning pipeline applied to a global ads performance dataset.
 * Features both supervised and unsupervised learning models, with detailed RMarkdown reports for data cleaning, exploratory analysis, and business decision-making.
